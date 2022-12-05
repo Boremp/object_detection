@@ -3,7 +3,7 @@
 
 Projeto de C209
 
-Esse projeto consiste no uso de uma inteligência artificial pré-treinada para detecção de vários obejtos em imagens.
+Esse projeto consiste no uso de uma inteligência artificial pré-treinada para detecção de vários objetos em imagens.
 
 
 
