@@ -19,7 +19,7 @@ object_detector(img)
 ![IMAGEM_RESULTADO](https://github.com/Boremp/object_detection/blob/main/projeto/result/img5_detected.jpg)
 
 - Utilizando esse código pode-se adicionar todas as imagens que deseja-se fazer a avaliação na pasta "/images_raw" com o formato "imgNUM.jpg"
-| /images_raw   :     | img0.jpg       |img1.jpg       | img2.jpg       | img3.jpg       |
+| /images_raw   :   | img0.jpg       |img1.jpg       | img2.jpg       | img3.jpg       |
 | ----------------- |----------------| --------------| -------------- | -------------- |
 
 ```python
