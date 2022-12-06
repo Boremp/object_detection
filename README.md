@@ -31,3 +31,6 @@ for i in range(n_img):
     img = cv2.imread("images_raw/" + img_name + ".jpg")
     object_detector(img)
 ```
+## Referência
+
+ - [TensorFlow Object Detection API](https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API)
